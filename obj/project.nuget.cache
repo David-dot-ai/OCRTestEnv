@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAyjVymqHe4iXLdP6R4tyuvnhRsduVz2SUVi0/fsmjdt6N/rmR7w5oVuGE339m2jP+HziTBW0TwvDEYUeAGTkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\ironocrTest\\ironocrTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ograd\\.nuget\\packages\\ironocr\\2022.3.0\\ironocr.2022.3.0.nupkg.sha512",
+    "C:\\Users\\ograd\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ograd\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\ograd\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
